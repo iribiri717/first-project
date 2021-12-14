@@ -1,0 +1,26 @@
+
+header	
+ {
+	color: goldenrod;
+	font-size: large;
+}
+
+
+p {
+	color: darkblue;
+	font-size: larger;
+	font-style: italic;
+
+
+
+
+
+}
+span {color: darkred;}
+
+#logo {
+	width: 150px;
+	/*height: 200px;*/
+
+
+}
